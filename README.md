@@ -18,4 +18,4 @@
 ```
 
 # Sharing Task Instructions
-  To share instructions with farm staff, simply direct them to https://github.com/mikeskafarm/Farm-Chores/ and have them reference the instructions for the specific chore you wish for them to execute. You can also share links directly to any chore list in particular.
+  To share instructions with farm staff, simply direct them to https://github.com/mikeskafarm/Farm-Chores/ and have them reference the instructions for the specific chore you wish for them to execute. You can also share links directly to any chore list in particular (for instance: https://github.com/mikeskafarm/Farm-Chores/blob/master/Cow%20Feeding.md).
