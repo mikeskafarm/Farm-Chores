@@ -6,7 +6,7 @@
   The *Preview Changes* tab is useful for evaluating what has changed in the document before committing. Unchanged lines of text begin with a yellow mark. Lines of text removed from the file during the current edit will begin with a red line marker. Lines of text added will begin with a green line marker. *When you change an existing line, the preview will show the initial content highlighted red and the replacement content highlighted green.* 
   
 # Creating a New Task
-  1. Click on **create new file** from the root of the Farm-Chores project. [example](https://help.github.com/assets/images/help/repository/create_new_file.png)
+  1. Click on **create new file** from the root of the Farm-Chores project. [Where is this button?](https://help.github.com/assets/images/help/repository/create_new_file.png)
   2. Ensure that the filename ends in .md
   3. Use the following syntax for Title & Steps
   ```
